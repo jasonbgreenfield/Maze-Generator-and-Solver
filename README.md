@@ -1,3 +1,3 @@
 # Maze-Generator-and-Solver
 
-A class project I expanded on my own. Java program that generates a maze and provides solution.
+Class project for Data Structures at Amherst College in April 2018. Purpose of the project was to implement a unionfind data structure and execute depth-first search to generate and solve mazes.
