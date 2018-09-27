@@ -12,7 +12,7 @@ public class Graph {
             aM[j][i] = 1;
         }
 
-	      return;
+	return;
     }
     
     public boolean edgeExist(int i, int j){
@@ -26,11 +26,11 @@ public class Graph {
 
     public Graph(int num) {
     
-	      numNodes = num;
+	 numNodes = num;
 
-	      aM = new int[num][num];
+	 aM = new int[num][num];
 	
-	      nodes = new Node[numNodes];
+	 nodes = new Node[numNodes];
         
         for(int i = 0; i < numNodes; i++) {
             nodes[i] = new Node(i);
